@@ -1,0 +1,92 @@
+[
+    {
+        "model": "business_objects.businessobject",
+        "pk": 1,
+        "fields": {
+            "name": "Товар 1",
+            "description": "Описание товара 1",
+            "resource": 1,
+            "owner": 1
+        }
+    },
+    {
+        "model": "business_objects.businessobject",
+        "pk": 2,
+        "fields": {
+            "name": "Товар 2",
+            "description": "Описание товара 2",
+            "resource": 1,
+            "owner": 1
+        }
+    },
+    {
+        "model": "business_objects.businessobject",
+        "pk": 3,
+        "fields": {
+            "name": "Товар 3",
+            "description": "Описание товара 3",
+            "resource": 1,
+            "owner": 2
+        }
+    },
+    {
+        "model": "business_objects.businessobject",
+        "pk": 4,
+        "fields": {
+            "name": "Заказ 1",
+            "description": "Описание заказа 1",
+            "resource": 2,
+            "owner": 2
+        }
+    },
+    {
+        "model": "business_objects.businessobject",
+        "pk": 5,
+        "fields": {
+            "name": "Заказ 2",
+            "description": "Описание заказа 2",
+            "resource": 2,
+            "owner": 3
+        }
+    },
+    {
+        "model": "business_objects.businessobject",
+        "pk": 6,
+        "fields": {
+            "name": "Заказ 3",
+            "description": "Описание заказа 3",
+            "resource": 2,
+            "owner": 3
+        }
+    },
+    {
+        "model": "business_objects.businessobject",
+        "pk": 7,
+        "fields": {
+            "name": "Магазин 1",
+            "description": "Описание магазина 1",
+            "resource": 3,
+            "owner": 1
+        }
+    },
+    {
+        "model": "business_objects.businessobject",
+        "pk": 8,
+        "fields": {
+            "name": "Магазин 2",
+            "description": "Описание магазина 2",
+            "resource": 3,
+            "owner": 2
+        }
+    },
+    {
+        "model": "business_objects.businessobject",
+        "pk": 9,
+        "fields": {
+            "name": "Магазин 3",
+            "description": "Описание магазина 3",
+            "resource": 3,
+            "owner": 3
+        }
+    }
+]

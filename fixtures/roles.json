@@ -1,0 +1,23 @@
+[
+    {
+        "model": "access.role",
+        "pk": 1,
+        "fields": {
+            "name": "Admin"
+        }
+    },
+    {
+        "model": "access.role",
+        "pk": 2,
+        "fields": {
+            "name": "Manager"
+        }
+    },
+    {
+        "model": "access.role",
+        "pk": 3,
+        "fields": {
+            "name": "User"
+        }
+    }
+]

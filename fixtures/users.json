@@ -1,0 +1,41 @@
+[
+    {
+        "model": "users.user",
+        "pk": 1,
+        "fields": {
+            "email": "admin@example.com",
+            "username": "admin",
+            "first_name": "Админ",
+            "last_name": "Админов",
+            "is_active": true,
+            "role": 1,
+            "password": "pbkdf2_sha256$1200000$bZyLySbR3qTvG0rQ01CGAE$xD+By51OYTk3hwi4KIUYfrAFdHlJPJxvZP3xtlqKe+Y="
+        }
+    },
+    {
+        "model": "users.user",
+        "pk": 2,
+        "fields": {
+            "email": "manager@example.com",
+            "username": "manager",
+            "first_name": "Менеджер",
+            "last_name": "Менеджеров",
+            "is_active": true,
+            "role": 2,
+            "password": "pbkdf2_sha256$1200000$bZyLySbR3qTvG0rQ01CGAE$xD+By51OYTk3hwi4KIUYfrAFdHlJPJxvZP3xtlqKe+Y="
+        }
+    },
+    {
+        "model": "users.user",
+        "pk": 3,
+        "fields": {
+            "email": "user@example.com",
+            "username": "user",
+            "first_name": "Пользователь",
+            "last_name": "Пользователей",
+            "is_active": true,
+            "role": 3,
+            "password": "pbkdf2_sha256$1200000$bZyLySbR3qTvG0rQ01CGAE$xD+By51OYTk3hwi4KIUYfrAFdHlJPJxvZP3xtlqKe+Y="
+        }
+    }
+]

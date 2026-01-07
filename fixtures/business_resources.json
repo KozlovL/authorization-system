@@ -1,0 +1,26 @@
+[
+    {
+        "model": "business_objects.businessresource",
+        "pk": 1,
+        "fields": {
+            "name": "products",
+            "description": "Товары"
+        }
+    },
+    {
+        "model": "business_objects.businessresource",
+        "pk": 2,
+        "fields": {
+            "name": "orders",
+            "description": "Заказы"
+        }
+    },
+    {
+        "model": "business_objects.businessresource",
+        "pk": 3,
+        "fields": {
+            "name": "shops",
+            "description": "Магазины"
+        }
+    }
+]

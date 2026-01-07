@@ -1,0 +1,137 @@
+[
+    {
+        "model": "access.accessrule",
+        "pk": 1,
+        "fields": {
+            "role": 1,
+            "business_resource": 1,
+            "read_owned_permission": true,
+            "read_all_permission": true,
+            "create_permission": true,
+            "update_owned_permission": true,
+            "update_all_permission": true,
+            "delete_owned_permission": true,
+            "delete_all_permission": true
+        }
+    },
+    {
+        "model": "access.accessrule",
+        "pk": 2,
+        "fields": {
+            "role": 2,
+            "business_resource": 1,
+            "read_owned_permission": true,
+            "read_all_permission": false,
+            "create_permission": true,
+            "update_owned_permission": true,
+            "update_all_permission": false,
+            "delete_owned_permission": false,
+            "delete_all_permission": false
+        }
+    },
+    {
+        "model": "access.accessrule",
+        "pk": 3,
+        "fields": {
+            "role": 3,
+            "business_resource": 1,
+            "read_owned_permission": true,
+            "read_all_permission": false,
+            "create_permission": false,
+            "update_owned_permission": false,
+            "update_all_permission": false,
+            "delete_owned_permission": false,
+            "delete_all_permission": false
+        }
+    },
+    {
+        "model": "access.accessrule",
+        "pk": 4,
+        "fields": {
+            "role": 1,
+            "business_resource": 2,
+            "read_owned_permission": true,
+            "read_all_permission": true,
+            "create_permission": true,
+            "update_owned_permission": true,
+            "update_all_permission": true,
+            "delete_owned_permission": true,
+            "delete_all_permission": true
+        }
+    },
+    {
+        "model": "access.accessrule",
+        "pk": 5,
+        "fields": {
+            "role": 2,
+            "business_resource": 2,
+            "read_owned_permission": true,
+            "read_all_permission": false,
+            "create_permission": true,
+            "update_owned_permission": true,
+            "update_all_permission": false,
+            "delete_owned_permission": false,
+            "delete_all_permission": false
+        }
+    },
+    {
+        "model": "access.accessrule",
+        "pk": 6,
+        "fields": {
+            "role": 3,
+            "business_resource": 2,
+            "read_owned_permission": true,
+            "read_all_permission": false,
+            "create_permission": false,
+            "update_owned_permission": false,
+            "update_all_permission": false,
+            "delete_owned_permission": false,
+            "delete_all_permission": false
+        }
+    },
+    {
+        "model": "access.accessrule",
+        "pk": 7,
+        "fields": {
+            "role": 1,
+            "business_resource": 3,
+            "read_owned_permission": true,
+            "read_all_permission": true,
+            "create_permission": true,
+            "update_owned_permission": true,
+            "update_all_permission": true,
+            "delete_owned_permission": true,
+            "delete_all_permission": true
+        }
+    },
+    {
+        "model": "access.accessrule",
+        "pk": 8,
+        "fields": {
+            "role": 2,
+            "business_resource": 3,
+            "read_owned_permission": true,
+            "read_all_permission": false,
+            "create_permission": true,
+            "update_owned_permission": true,
+            "update_all_permission": false,
+            "delete_owned_permission": false,
+            "delete_all_permission": false
+        }
+    },
+    {
+        "model": "access.accessrule",
+        "pk": 9,
+        "fields": {
+            "role": 3,
+            "business_resource": 3,
+            "read_owned_permission": true,
+            "read_all_permission": false,
+            "create_permission": false,
+            "update_owned_permission": false,
+            "update_all_permission": false,
+            "delete_owned_permission": false,
+            "delete_all_permission": false
+        }
+    }
+]
